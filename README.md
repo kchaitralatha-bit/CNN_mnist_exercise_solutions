@@ -1,10 +1,10 @@
-# 🧠 CNN MNIST Digit Classification
+#  CNN MNIST Digit Classification
 
 This project implements a Convolutional Neural Network (CNN) to classify handwritten digits from the MNIST dataset. The model is built using Deep Learning techniques and trained to recognize digits (0–9) with high accuracy.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The MNIST dataset contains 70,000 grayscale images of handwritten digits:
 - 60,000 training images
@@ -15,7 +15,7 @@ The objective of this project is to build a CNN model capable of accurately pred
 
 ---
 
-## 🏗️ Model Architecture
+##  Model Architecture
 
 The CNN architecture includes:
 
@@ -28,7 +28,7 @@ The CNN architecture includes:
 
 ---
 
-## 🔄 Workflow
+##  Workflow
 
 1. Import and preprocess MNIST dataset  
 2. Normalize pixel values  
@@ -41,7 +41,7 @@ The CNN architecture includes:
 
 ---
 
-## 📊 Results
+##  Results
 
 - High classification accuracy on test dataset
 - Clear digit recognition capability
@@ -49,7 +49,7 @@ The CNN architecture includes:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - TensorFlow / Keras
@@ -59,7 +59,7 @@ The CNN architecture includes:
 
 ---
 
-## 📈 Key Learnings
+##  Key Learnings
 
 - Understanding CNN architecture
 - Feature extraction using convolution
@@ -69,7 +69,7 @@ The CNN architecture includes:
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Add Dropout layers for better regularization
 - Implement Data Augmentation
@@ -78,7 +78,7 @@ The CNN architecture includes:
 
 ---
 
-## 📁 File Structure
+##  File Structure
 CNN_mnist_exercise_solutions.ipynb
 README.md
 
